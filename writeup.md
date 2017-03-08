@@ -6,7 +6,7 @@
 
 ###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-I used the standard cv2 operations in the pipeline: greyscale, blurring, canny edges, region of interest and hough lines.
+I used the standard cv2 operations in the pipeline: color filtering, greyscale, blurring, canny edges, region of interest and hough lines.
 
 ![pipeline](pipeline.png)
 
